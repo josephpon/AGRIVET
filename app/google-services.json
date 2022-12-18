@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799830402359",
+    "project_id": "agrivet-7caea",
+    "storage_bucket": "agrivet-7caea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799830402359:android:8f23bf263487635151e6b2",
+        "android_client_info": {
+          "package_name": "com.example.agrivet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799830402359-3s6s8uat12udfhot1mo89odhkk5o0su4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdkWR8BNk18KErfuFu0oFHUY7y5I4avG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799830402359-3s6s8uat12udfhot1mo89odhkk5o0su4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
